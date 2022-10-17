@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="460201e6-f05b-445a-99a7-6d3b644e3e41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/highlightedFiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aufgabe_vier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Tier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/fisch/Fisch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/fisch/Hai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/fisch/Lachs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/saugetier/Bieber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/saugetier/Ozelot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/saugetier/Saugetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/vogel/Papagei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/vogel/Rabe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/vogel/Vogel.java" afterDir="false" />
+    <list default="true" id="460201e6-f05b-445a-99a7-6d3b644e3e41" name="Changes" comment="e">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/saugetier/Saugetier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/saugetier/Saugetier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +58,18 @@
       <workItem from="1665416698515" duration="73000" />
       <workItem from="1665478298648" duration="162000" />
       <workItem from="1665501167928" duration="1291000" />
-      <workItem from="1665557978596" duration="4656000" />
+      <workItem from="1665557978596" duration="6890000" />
+      <workItem from="1665599699096" duration="718000" />
+      <workItem from="1666008854540" duration="3460000" />
     </task>
+    <task id="LOCAL-00001" summary="e">
+      <created>1665563043333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665563043333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
 </project>
