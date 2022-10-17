@@ -3,9 +3,6 @@ import zoo.Tier;
 import java.util.Scanner;
 
 public class Saugetier extends Tier {
-    static Scanner scanner = new Scanner(System.in);
-    int input = scanner.nextInt();
-    int input2 = scanner.nextInt();
     protected Saugetier(final String name, final String color) {
         super(name, color);
     }
