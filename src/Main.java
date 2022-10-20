@@ -15,7 +15,7 @@ public class Main {
         while (true) {
             System.out.println("\n1. Fische");
             System.out.println("2. Vögel");
-            System.out.println("3. Säugetiere");
+            System.out.println("3. Saugetiere");
             System.out.println("4. Exit program");
             int input = scanner.nextInt();
             switch (input) {
@@ -125,11 +125,11 @@ public class Main {
                         if (input == 1) {
                             bieber.makeSound();
                         } else if (input == 2) {
-                            rabe.greet(papagei);
+                           bieber.greet(bieber);
                         } else if (input == 3) {
-                            rabe.eat(100);
+                            bieber.eat(100);
                         } else if (input == 4) {
-                            rabe.fly();
+                            bieber.run();
                         } else if (input == 5) {
                             System.exit(0);
                         }

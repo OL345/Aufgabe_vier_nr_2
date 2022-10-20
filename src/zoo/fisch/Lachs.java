@@ -11,7 +11,6 @@ public class Lachs extends Fisch {
 
     public void greet(Tier t) {
         System.out.println(this + ": Hallo " + t + "!");
-        System.out.println(this + ": Hallo " + t + "!");
     }
 
 
