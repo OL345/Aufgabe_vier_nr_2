@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="460201e6-f05b-445a-99a7-6d3b644e3e41" name="Changes" comment="e">
+    <list default="true" id="460201e6-f05b-445a-99a7-6d3b644e3e41" name="Changes" comment="Small Zoo with abstract classes">
+      <change afterPath="$PROJECT_DIR$/src/Zooverwaltung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoo/fisch/Lachs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/fisch/Lachs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,9 @@
       <workItem from="1666008854540" duration="4976000" />
       <workItem from="1666165552417" duration="1667000" />
       <workItem from="1666168381232" duration="1250000" />
-      <workItem from="1666247600290" duration="60000" />
+      <workItem from="1666247600290" duration="2126000" />
+      <workItem from="1666614689778" duration="151000" />
+      <workItem from="1666614856482" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="e">
       <created>1665563043333</created>
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666012842969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Small Zoo with abstract classes">
+      <created>1666247749030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666247749030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="e" />
-    <option name="LAST_COMMIT_MESSAGE" value="e" />
+    <MESSAGE value="Small Zoo with abstract classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Zoo with abstract classes" />
   </component>
 </project>

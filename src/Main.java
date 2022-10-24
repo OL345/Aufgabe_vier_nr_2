@@ -1,4 +1,4 @@
-import zoo.fisch.*;
+/*import zoo.fisch.*;
 import zoo.saugetier.*;
 import zoo.vogel.*;
 import java.util.Scanner;
@@ -161,3 +161,4 @@ public class Main {
     }
 
 }
+             */
