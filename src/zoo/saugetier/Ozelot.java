@@ -26,4 +26,8 @@ public class Ozelot extends Saugetier {
     public void run() {
         System.out.println(this + ": Ich renne.");
     }
+
+    public String toString() {
+        return "Ozelot";
+    }
 }

@@ -25,4 +25,7 @@ public class Papagei extends Vogel{
     public void fly() {
         System.out.println(this + ": Ich fliege.");
     }
+    public String toString() {
+        return "Papagei";
+    }
 }

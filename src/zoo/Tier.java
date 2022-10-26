@@ -1,8 +1,9 @@
 package zoo;
-
+import java.util.ArrayList;
 public abstract class Tier {
     private final String name;
     private final String color;
+    private final ArrayList<Tier> animals = new ArrayList<Tier>();
     protected Tier(final String name, final String color) {
         this.name = name;
         this.color = color;

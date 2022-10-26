@@ -1,7 +1,7 @@
 package zoo.fisch;
 import zoo.Tier;
 
-abstract class Fisch extends Tier {
+public abstract class Fisch extends Tier {
     protected Fisch(final String name, final String color) {
         super(name, color);
     }
