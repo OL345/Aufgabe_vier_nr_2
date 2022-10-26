@@ -1,12 +1,7 @@
 package zoo.vogel;
-
 import zoo.Tier;
-import zoo.saugetier.Saugetier;
-
-import java.util.Scanner;
 public class Papagei extends Vogel{
 
-    static Scanner scanner = new Scanner(System.in);
     public Papagei(final String name, final String color) {
         super(name, color);
     }
